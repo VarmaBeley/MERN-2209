@@ -12,6 +12,7 @@ function App() {
       <h1>pulled by Rajeshwar and pushed</h1>
       <h1>Hello this is karthik</h1>
       <h1>fdfdfg</h1>
+      <h2>good afternoon</h2>
     </div>
   );
 }
