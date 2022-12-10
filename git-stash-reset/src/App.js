@@ -10,6 +10,8 @@ function App() {
       <h1>Remote Repositary pulled by Varma and modified and pushed by Varma</h1>
       <h1>This heading added by Harish kumar</h1>
       <h1>pulled by Rajeshwar and pushed</h1>
+      <h1>virat kohli</h1>
+      
     </div>
   );
 }
